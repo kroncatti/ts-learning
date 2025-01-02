@@ -4,7 +4,8 @@
       "module": "commonjs",
       "strict": true,
       "outDir": "./dist",
-      "rootDir": "./src"
+      "rootDir": "./src",
+      "sourceMap": true // Useful for debugger
     },
     "exclude": ["node_modules"]
   }
